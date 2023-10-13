@@ -9,12 +9,13 @@
     "license": "MIT",
     "lastUpdated": "1687579221725",
     "tags": [
-        "test",
-        "asdsad"
+        "openid-connect",
+        "community"
     ],
     "configs": {
         "co.gluu.openid": {},
         "co.beta.login": {}
     },
-    "noDirectLaunch": []
+    "noDirectLaunch": [],
+    "name": "demo"
 }
